@@ -102,11 +102,12 @@ section {
 #portfolio .portfolio-item a{
     color: #fff;
     text-decoration: none;
+    border: #fff solid 2px;
     /* margin-right: 1em; */
 }
 #portfolio .portfolio-item a:hover{
-    text-decoration: underline;
-    color: #555;
+    /* text-decoration: underline; */
+    background-color: #555;
 }
 
 
